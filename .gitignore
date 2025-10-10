@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+env/
+venv/
+secenv/
+# macOS
+.DS_Store
+# secrets
+*.pem
+*.key
+# node
+node_modules/
