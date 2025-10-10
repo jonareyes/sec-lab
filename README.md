@@ -49,3 +49,4 @@ Repositorio personal para documentar y practicar seguridad informática de forma
 - Mantén siempre evidencia en local y no publiques credenciales.
 - Añade aquí tus metas de certificación y links a tus perfiles (TryHackMe, HTB, GitHub).
 
+# sec-lab
